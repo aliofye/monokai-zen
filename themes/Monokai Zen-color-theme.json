@@ -4,7 +4,7 @@
   "colors": {
     "foreground": "#888980",
     "focusBorder": "#3B3C35",
-    "selection.background": "#3B3C35",
+    "selection.background": "#8889807c",
     "descriptionForeground": "#888980",
     "errorForeground": "#F92672",
     "activityBar.border": "#19191A",
@@ -32,7 +32,7 @@
     "sideBarSectionHeader.background": "#19191A",
     "sideBarSectionHeader.foreground": "#3B3C35",
     "sideBarTitle.foreground": "#3B3C35",
-    "sideBar.foreground": "#3B3C35",
+    "sideBar.foreground": "#52534A",
     "editor.background": "#19191A",
     "editorGutter.background": "#19191A",
     "editorGroup.emptyBackground": "#19191A",
@@ -184,8 +184,8 @@
     "statusBar.debuggingForeground": "#000000",
     "statusBarItem.remoteBackground": "#3B3C35",
     "statusBarItem.remoteForeground": "#000000",
-    "statusBar.debuggingBorder": "#1D1E19",
-    "statusBar.noFolderBackground": "#1D1E19",
+    "statusBar.debuggingBorder": "#19191A",
+    "statusBar.noFolderBackground": "#19191A",
     "statusBar.noFolderForeground": "#6E7066",
     "statusBar.noFolderBorder": "#161613",
     "statusBarItem.activeBackground": "#272822",
@@ -274,9 +274,9 @@
     "merge.border": "#272822",
     "merge.commonHeaderBackground": "#3B3C35",
     "merge.commonContentBackground": "#FDFFF119",
-    "titleBar.activeBackground": "#1D1E19",
+    "titleBar.activeBackground": "#19191A",
     "titleBar.activeForeground": "#919288",
-    "titleBar.inactiveBackground": "#1D1E19",
+    "titleBar.inactiveBackground": "#19191A",
     "titleBar.inactiveForeground": "#57584F",
     "titleBar.border": "#161613",
     "notificationCenter.border": "#3B3C35",
@@ -295,7 +295,7 @@
     "debugToolBar.background": "#3B3C35",
     "welcomePage.buttonBackground": "#3B3C35",
     "welcomePage.buttonHoverBackground": "#57584F",
-    "walkThrough.embeddedEditorBackground": "#1D1E19",
+    "walkThrough.embeddedEditorBackground": "#19191A",
     "symbolIcon.arrayForeground": "#F92672",
     "symbolIcon.booleanForeground": "#F92672",
     "symbolIcon.classForeground": "#66D9EF",
@@ -417,7 +417,8 @@
         "storage.modifier",
         "punctuation.definition.template-expression.begin.js",
         "punctuation.definition.template-expression.end.js",
-        "meta.template.expression.js"
+        "meta.template.expression.js",
+        "variable.language.this.js",
       ],
       "settings": {
         "foreground": "#F92672"
@@ -435,7 +436,6 @@
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
         "punctuation.section.embedded",
-        "variable.language.this.js",
       ],
       "settings": {
         "foreground": "#6E7066"
