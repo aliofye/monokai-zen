@@ -255,10 +255,10 @@
     "settings.numberInputForeground": "#FDFFF1",
     "settings.numberInputBorder": "#3B3C35",
     "peekView.border": "#272822",
-    "peekViewEditor.background": "#3B3C35",
-    "peekViewEditorGutter.background": "#3B3C35",
+    "peekViewEditor.background": "#19191A",
+    "peekViewEditorGutter.background": "#19191A",
     "peekViewEditor.matchHighlightBackground": "#57584F",
-    "peekViewResult.background": "#3B3C35",
+    "peekViewResult.background": "#19191A",
     "peekViewResult.fileForeground": "#919288",
     "peekViewResult.lineForeground": "#919288",
     "peekViewResult.matchHighlightBackground": "#57584F",
@@ -382,6 +382,7 @@
         "meta.var-single-variable.expr.js",
         "meta.var.expr.js",
         "meta.object-literal.key.js",
+        "meta.jsx.children.js.jsx",
       ],
       "settings": {
         "foreground": "#FDFFF1"
@@ -419,6 +420,7 @@
         "punctuation.definition.template-expression.end.js",
         "meta.template.expression.js",
         "variable.language.this.js",
+        "support.class.component.js.jsx"
       ],
       "settings": {
         "foreground": "#F92672"
@@ -568,7 +570,8 @@
       "name": "Entity Types",
       "scope": [
         "support.type",
-        "storage.type.js"
+        "storage.type.js",
+        "entity.other.attribute-name.js.jsx",
       ],
       "settings": {
         "foreground": "#66D9EF"
