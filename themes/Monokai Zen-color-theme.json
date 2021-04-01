@@ -517,8 +517,6 @@
         "meta.array.literal.js",
         "meta.definition.variable.js",
         "meta.array-binding-pattern-variable.js",
-        "punctuation.definition.binding-pattern.array.js",
-        "punctuation.definition.binding-pattern.object.js"
       ],
       "settings": {
         "foreground": "#AE81FF"
