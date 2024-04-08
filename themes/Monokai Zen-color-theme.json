@@ -360,7 +360,9 @@
     "charts.blue": "#66D9EF",
     "charts.purple": "#AE81FF",
     "charts.foreground": "#FDFFF1",
-    "charts.lines": "#6E7066"
+    "charts.lines": "#6E7066",
+    // "editorGhostText.border": "#6E7066",
+    "editorGhostText.foreground": "#FDFFF1",
   },
   "tokenColors": [
     {
