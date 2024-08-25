@@ -46,7 +46,7 @@
     "editorWidget.background": "#3B3C35",
     "editorSuggestWidget.background": "#3B3C35",
     "editor.foreground": "#FDFFF1",
-    "editorGhostText.foreground": "#AE81FF",
+    "editorGhostText.foreground": "#6E7066",
     "editorLineNumber.foreground": "#57584F",
     "editorLineNumber.activeForeground": "#C0C1B5",
     "editorCursor.background": "#272822",
